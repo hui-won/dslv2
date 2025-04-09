@@ -22,6 +22,8 @@
 3. 함수 이름은 알겠는데 어떻게 써야할 지 모를 때, shift+tab 하면 파라미터 정보 다 알려줌.
    ex) LinearRegressor() 인자 뭔지 모를 때, shift+tab  
 
+## 실기 공부하다 모르는거 있으면 
+yoyak_from_doyeon 확인. doyeon에게 감사하며 읽기
 
 
 
